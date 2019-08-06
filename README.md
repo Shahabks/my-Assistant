@@ -1,5 +1,5 @@
 # my-Assistant
-## It measures readability of a written document, and for bettr comprehension, it helps to shorten a long written document and to extract key words
+## This package measures readability of a written document, and helps one shorten a long written document and to extract key words for better comprehension. 
 Let's measure how close our writing style is to the audience comprehension levek. Demand for concise writing is increasing, 
 while we need to convey our entire stories. 
 To hold the balnce, this package evaluates the readability of written documents and provides a summary of them too. 
